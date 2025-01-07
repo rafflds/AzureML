@@ -2,29 +2,14 @@
 <p align="center">
 <img src="https://azurecomcdn.azureedge.net/cvt-d2037a36a6656f984528a551e9101a640426c329b133732a87217e5b334a03c2/images/page/services/machine-learning/azure-machine-learning-icon.png" alt="Ícone do Azure Machine Learning" width="150">
 </p>
-Este guia prático irá te conduzir através da utilização do poder do Machine Learning Automatizado no Azure Machine Learning. Você irá treinar, avaliar, implantar e testar um modelo de machine learning, tudo em aproximadamente 35 minutos. Prepare-se para mergulhar em um mundo de aprendizado e automação!
 
-🎯 O Que Você Irá Aprender
-Criar um Workspace no Azure Machine Learning: Seu espaço de trabalho será o lar de todos os seus experimentos e modelos.
-
-Utilizar o Machine Learning Automatizado: Deixe a inteligência artificial escolher o melhor modelo para seus dados.
-
-Treinar um Modelo de Regressão: Prever o número de aluguéis de bicicletas com base em dados históricos.
-
-Avaliar o Desempenho do Modelo: Analisar métricas e gráficos para entender a qualidade do seu modelo.
-
-Implantar um Modelo como um Serviço Web: Tornar seu modelo acessível através de uma API.
-
-Testar o Serviço Implantado: Enviar dados de teste e verificar as previsões do modelo.
-
-Limpar Recursos: Excluir endpoints e seu workspace para evitar custos desnecessários.
 
 🛠️ Pré-requisitos
 Uma assinatura do Azure ativa.
 
 Acesso ao portal do Azure.
 
-Conhecimentos básicos sobre machine learning (conceitos como modelos, treinamento, etc.).
+
 
 ⚙️ Passo a Passo
 Criar um Workspace do Azure Machine Learning
